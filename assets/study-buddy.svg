@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img" aria-labelledby="title">
+  <title id="title">Study Buddy dashboard preview</title>
+  <rect width="1000" height="680" rx="34" fill="#e6eee6"/>
+  <rect x="70" y="58" width="860" height="564" rx="26" fill="#fbfaf5"/>
+  <rect x="70" y="58" width="208" height="564" rx="26" fill="#173f39"/>
+  <text x="106" y="115" fill="#fffdf5" font-size="25" font-family="Arial,sans-serif" font-weight="700">study buddy.</text>
+  <text x="106" y="181" fill="#b9d1c5" font-size="15" font-family="Arial,sans-serif">YOUR SPACE</text>
+  <rect x="96" y="200" width="152" height="43" rx="13" fill="#315c51"/><text x="129" y="228" fill="#fffdf5" font-size="17" font-family="Arial,sans-serif">Overview</text>
+  <text x="129" y="284" fill="#d4e0d5" font-size="17" font-family="Arial,sans-serif">My courses</text><text x="129" y="331" fill="#d4e0d5" font-size="17" font-family="Arial,sans-serif">My planner</text>
+  <text x="316" y="116" fill="#193f39" font-size="17" font-family="Arial,sans-serif">MONDAY, OCTOBER 14</text>
+  <text x="316" y="163" fill="#163a34" font-size="34" font-family="Arial,sans-serif" font-weight="700">Good morning, Kator</text>
+  <rect x="315" y="198" width="577" height="134" rx="18" fill="#e4ede3"/>
+  <text x="344" y="239" fill="#173e38" font-size="20" font-family="Arial,sans-serif" font-weight="700">A good week starts with a plan.</text>
+  <text x="344" y="271" fill="#5b7169" font-size="16" font-family="Arial,sans-serif">You have 3 small steps to focus on today.</text>
+  <rect x="344" y="291" width="116" height="28" rx="14" fill="#193f39"/><text x="365" y="311" fill="#fffdf5" font-size="13" font-family="Arial,sans-serif">View my week</text>
+  <text x="316" y="379" fill="#173e38" font-size="22" font-family="Arial,sans-serif" font-weight="700">Up next</text>
+  <rect x="316" y="398" width="576" height="58" rx="12" fill="#fff" stroke="#e9e9df"/><circle cx="344" cy="427" r="12" fill="#dfeae0"/><path d="m338 427 4 4 8-9" fill="none" stroke="#497b64" stroke-width="3"/><text x="371" y="433" fill="#263e38" font-size="16" font-family="Arial,sans-serif">Read chapter four</text><text x="824" y="433" fill="#82928a" font-size="13" font-family="Arial,sans-serif">TODAY</text>
+  <rect x="316" y="467" width="576" height="58" rx="12" fill="#fff" stroke="#e9e9df"/><circle cx="344" cy="496" r="12" fill="#f5f2e8" stroke="#cdd6ca"/><text x="371" y="502" fill="#263e38" font-size="16" font-family="Arial,sans-serif">Finish my portfolio draft</text><text x="824" y="502" fill="#82928a" font-size="13" font-family="Arial,sans-serif">WED</text>
+  <rect x="316" y="536" width="576" height="58" rx="12" fill="#fff" stroke="#e9e9df"/><circle cx="344" cy="565" r="12" fill="#f5f2e8" stroke="#cdd6ca"/><text x="371" y="571" fill="#263e38" font-size="16" font-family="Arial,sans-serif">Review JavaScript notes</text><text x="824" y="571" fill="#82928a" font-size="13" font-family="Arial,sans-serif">FRI</text>
+</svg>

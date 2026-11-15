@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img" aria-labelledby="title">
+  <title id="title">Little by Little habit tracker preview</title>
+  <rect width="1000" height="680" rx="34" fill="#ece7f1"/>
+  <rect x="211" y="42" width="578" height="596" rx="42" fill="#27273a"/>
+  <rect x="227" y="61" width="546" height="558" rx="30" fill="#faf8f3"/>
+  <rect x="405" y="77" width="190" height="20" rx="10" fill="#27273a"/>
+  <text x="275" y="154" fill="#78778a" font-size="14" font-family="Arial,sans-serif">TUESDAY, 15 OCTOBER</text>
+  <text x="275" y="202" fill="#313047" font-size="31" font-family="Arial,sans-serif" font-weight="700">A little at a time.</text>
+  <text x="275" y="236" fill="#78778a" font-size="16" font-family="Arial,sans-serif">You’re showing up. That counts.</text>
+  <rect x="275" y="270" width="450" height="108" rx="17" fill="#eeecf5"/>
+  <circle cx="322" cy="324" r="26" fill="#d7cde9"/><path d="M322 338c-16-16-19-24-11-29 6-4 11 2 11 2s5-6 11-2c8 5 5 13-11 29z" fill="#7764a2"/>
+  <text x="369" y="318" fill="#3e3a58" font-size="18" font-family="Arial,sans-serif" font-weight="700">Read for 20 minutes</text><text x="369" y="345" fill="#858297" font-size="14" font-family="Arial,sans-serif">4 days this week · tiny steps add up</text>
+  <text x="275" y="421" fill="#3d3b53" font-size="18" font-family="Arial,sans-serif" font-weight="700">Your week so far</text>
+  <g fill="#e8e4ed"><rect x="275" y="445" width="57" height="71" rx="13"/><rect x="340" y="445" width="57" height="71" rx="13"/><rect x="405" y="445" width="57" height="71" rx="13"/><rect x="470" y="445" width="57" height="71" rx="13"/><rect x="535" y="445" width="57" height="71" rx="13"/><rect x="600" y="445" width="57" height="71" rx="13"/><rect x="665" y="445" width="57" height="71" rx="13"/></g>
+  <g fill="#9a83b9"><circle cx="303" cy="472" r="12"/><circle cx="368" cy="472" r="12"/><circle cx="433" cy="472" r="12"/><circle cx="498" cy="472" r="12"/></g><g fill="#fff"><path d="m297 472 4 4 8-8"/><path d="m362 472 4 4 8-8"/><path d="m427 472 4 4 8-8"/><path d="m492 472 4 4 8-8"/></g>
+  <g fill="#7e7b90" font-family="Arial,sans-serif" font-size="12" text-anchor="middle"><text x="303" y="502">M</text><text x="368" y="502">T</text><text x="433" y="502">W</text><text x="498" y="502">T</text><text x="563" y="502">F</text><text x="628" y="502">S</text><text x="693" y="502">S</text></g>
+  <text x="275" y="559" fill="#89869a" font-size="14" font-family="Arial,sans-serif">No perfect streaks needed. Just begin again.</text>
+</svg>

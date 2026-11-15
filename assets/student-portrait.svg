@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 940" role="img" aria-labelledby="title">
+  <title id="title">Illustrated portrait placeholder</title>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#eadcc9"/><stop offset="1" stop-color="#c6d9cd"/></linearGradient>
+    <linearGradient id="shirt" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ff916d"/><stop offset="1" stop-color="#f27359"/></linearGradient>
+  </defs>
+  <rect width="760" height="940" fill="url(#background)"/>
+  <circle cx="605" cy="170" r="95" fill="#f3edc6" opacity=".8"/>
+  <path d="M75 800c38-176 169-266 305-266s267 90 305 266v140H75z" fill="#123d36"/>
+  <path d="M260 654c36-50 73-74 120-74s84 24 120 74l-76 286H336z" fill="#f7f3e8"/>
+  <path d="M255 310c0-170 74-244 190-244s190 74 190 244v160c0 110-82 204-190 204s-190-94-190-204z" fill="#422c27"/>
+  <path d="M310 273c0-102 55-165 143-165s143 63 143 165v175c0 81-64 146-143 146s-143-65-143-146z" fill="#9d593c"/>
+  <path d="M285 277c-5-121 70-214 187-214 107 0 178 79 188 190-42-10-79-34-102-73-48 53-126 77-273 97" fill="#422c27"/>
+  <path d="M300 298c8 34 8 100 8 145 0 81 64 146 143 146s143-65 143-146c0-75-3-135-35-169-49 42-160 45-259 24" fill="#a96343"/>
+  <path d="M331 373q24-18 49 0M461 373q24-18 49 0" fill="none" stroke="#382522" stroke-linecap="round" stroke-width="11"/>
+  <path d="M382 469q55 46 107 0" fill="none" stroke="#743e35" stroke-linecap="round" stroke-width="10"/>
+  <circle cx="355" cy="406" r="8" fill="#342522"/><circle cx="487" cy="406" r="8" fill="#342522"/>
+  <path d="m349 588 31 68-43 92 43 192h-98V705l18-117zm145 0-31 68 43 92-43 192h98V705l-18-117z" fill="#f5f1e7"/>
+  <path d="M251 940c18-168 71-251 129-283l-53-81-100 49c-48 24-89 95-115 182l-33 133zM509 657l-53 81c58 32 111 115 129 283h172l-33-133c-26-87-67-158-115-182z" fill="url(#shirt)"/>
+</svg>

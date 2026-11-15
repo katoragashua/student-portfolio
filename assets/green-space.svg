@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img" aria-labelledby="title">
+  <title id="title">Green Space project preview</title>
+  <rect width="1000" height="680" rx="34" fill="#dce8da"/>
+  <rect x="55" y="56" width="890" height="568" rx="24" fill="#f7f5eb"/>
+  <text x="98" y="119" fill="#214d3d" font-size="26" font-family="Arial,sans-serif" font-weight="700">green space</text>
+  <text x="684" y="117" fill="#496d58" font-size="15" font-family="Arial,sans-serif">Explore   Our story   Get involved</text>
+  <rect x="87" y="148" width="826" height="339" rx="17" fill="#dbe8d6"/>
+  <circle cx="812" cy="219" r="45" fill="#f3d87c"/>
+  <path d="M110 434Q258 292 405 412t266-6q109-92 240-5v86H110z" fill="#9ebe91"/>
+  <path d="M110 464q149-99 296 0t281-1q105-71 224-8v32H110z" fill="#618a68"/>
+  <path d="M686 488q12-79 6-135M692 405q-56-53-99-31 26 61 98 57M692 378q49-65 102-50-14 68-101 76" fill="#2c5a45"/>
+  <text x="126" y="224" fill="#1e493b" font-size="42" font-family="Arial,sans-serif" font-weight="700">Small steps,</text><text x="126" y="276" fill="#1e493b" font-size="42" font-family="Arial,sans-serif" font-weight="700">greener days.</text>
+  <text x="129" y="314" fill="#536e58" font-size="17" font-family="Arial,sans-serif">Make room for good habits in your everyday routine.</text>
+  <rect x="128" y="346" width="162" height="42" rx="21" fill="#24533e"/><text x="151" y="372" fill="#f7f5eb" font-size="14" font-family="Arial,sans-serif">Explore the guide  →</text>
+  <text x="98" y="544" fill="#26513e" font-size="20" font-family="Arial,sans-serif" font-weight="700">Start with what’s around you</text>
+  <rect x="98" y="559" width="240" height="44" rx="12" fill="#e9ede0"/><circle cx="122" cy="581" r="11" fill="#90aa75"/><text x="143" y="587" fill="#43634b" font-size="15" font-family="Arial,sans-serif">Grow something together</text>
+  <rect x="355" y="559" width="245" height="44" rx="12" fill="#e9ede0"/><circle cx="379" cy="581" r="11" fill="#d7a35d"/><text x="400" y="587" fill="#43634b" font-size="15" font-family="Arial,sans-serif">Find your local market</text>
+  <rect x="617" y="559" width="286" height="44" rx="12" fill="#e9ede0"/><circle cx="641" cy="581" r="11" fill="#81a6a0"/><text x="662" y="587" fill="#43634b" font-size="15" font-family="Arial,sans-serif">Get around without a car</text>
+</svg>

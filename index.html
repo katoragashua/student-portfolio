@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Meet Kator Agashua, a computer science student creating useful, thoughtful digital experiences.">
+    <meta name="theme-color" content="#f5f4ed">
+    <title>Kator Agashua — Student Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="index.html" aria-label="Kator Agashua home"><span class="wordmark-mark">K</span> kator agashua<span class="wordmark-period">.</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation menu"><span></span><span></span></button>
+      <nav class="site-nav" id="primary-nav" aria-label="Main navigation">
+        <a class="nav-link" href="index.html">Home</a><a class="nav-link" href="about.html">About</a><a class="nav-link" href="projects.html">Projects</a><a class="nav-link" href="planner.html">Planner</a><a class="nav-link nav-contact" href="contact.html">Let’s talk <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main id="main">
+      <section class="hero section-wrap">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="status-dot"></span> Computer science student · Learning every day</p>
+          <h1>Curious mind.<br><span class="highlight">Thoughtful work.</span></h1>
+          <p class="hero-lede">Hi, I’m Kator — a student, creative problem-solver, and aspiring software developer turning little ideas into useful digital experiences.</p>
+          <div class="hero-actions"><a class="button button-dark" href="projects.html">Explore my work <span aria-hidden="true">↗</span></a><a class="text-link" href="about.html">A little about me <span aria-hidden="true">→</span></a></div>
+          <div class="hero-note"><span class="note-line"></span><span>Currently learning JavaScript &amp; building better habits</span></div>
+        </div>
+        <div class="hero-visual">
+          <div class="portrait-frame">
+            <img class="portrait-image" src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&amp;fit=crop&amp;w=840&amp;q=85" data-fallback="assets/student-portrait.svg" alt="Portrait of Kator">
+            <div class="portrait-caption"><span class="caption-icon" aria-hidden="true">✳</span><span>Learning with purpose<br><strong>One project at a time</strong></span></div>
+          </div>
+          <div class="hero-sticker" aria-hidden="true"><span>building<br>what’s next</span><span class="sticker-arrow">↗</span></div>
+          <span class="hero-sparkle sparkle-one" aria-hidden="true">✳</span><span class="hero-sparkle sparkle-two" aria-hidden="true">✦</span>
+        </div>
+      </section>
+
+      <section class="intro-strip" aria-label="Portfolio introduction">
+        <p><span>01</span> Student first</p><p><span>02</span> Builder always</p><p><span>03</span> Curious by nature</p>
+      </section>
+
+      <section class="section-wrap home-about section-space">
+        <div class="section-heading"><p class="eyebrow">A quick introduction</p><h2>Making room for<br>good ideas to grow.</h2></div>
+        <div class="home-about-copy"><p>I’m studying computer science at MIVA Open University, where I’m building a strong foundation in web development and problem-solving. I believe the best work starts with curiosity and gets better with practice.</p><a class="text-link" href="about.html">More about my journey <span aria-hidden="true">→</span></a></div>
+      </section>
+
+      <section class="featured-section section-space">
+        <div class="section-wrap">
+          <div class="section-heading heading-row"><div><p class="eyebrow">Selected work</p><h2>A few things<br>I've been making.</h2></div><a class="text-link desktop-link" href="projects.html">See all projects <span aria-hidden="true">→</span></a></div>
+          <div class="project-grid">
+            <a class="project-card project-card-large" href="projects.html#study-buddy">
+              <img src="assets/study-buddy.svg" alt="Study Buddy dashboard project preview" loading="lazy">
+              <div class="project-meta"><div><span class="project-category">01 / PRODUCTIVITY</span><h3>Study Buddy</h3></div><span class="round-arrow" aria-hidden="true">↗</span></div>
+              <p>A calm, friendly dashboard for keeping coursework and study goals on track.</p>
+            </a>
+            <a class="project-card" href="projects.html#green-space">
+              <img src="assets/green-space.svg" alt="Green Space community project preview" loading="lazy">
+              <div class="project-meta"><div><span class="project-category">02 / COMMUNITY</span><h3>Green Space</h3></div><span class="round-arrow" aria-hidden="true">↗</span></div>
+              <p>A community guide to finding small ways to live a little greener.</p>
+            </a>
+          </div>
+          <a class="text-link mobile-link" href="projects.html">See all projects <span aria-hidden="true">→</span></a>
+        </div>
+      </section>
+
+      <section class="planner-callout section-wrap">
+        <div><p class="eyebrow">A little structure goes a long way</p><h2>Make space for<br>what matters next.</h2><p>My simple academic planner helps turn a busy semester into a list of doable next steps.</p><a class="button button-light" href="planner.html">Open the planner <span aria-hidden="true">↗</span></a></div>
+        <div class="planner-preview" aria-hidden="true"><div class="preview-top"><span>this week</span><span class="preview-dots">•••</span></div><div class="preview-task"><span class="preview-check checked">✓</span><span>Read chapter 04</span><small>MON</small></div><div class="preview-task"><span class="preview-check"></span><span>Finish portfolio draft</span><small>WED</small></div><div class="preview-task"><span class="preview-check"></span><span>Review JavaScript notes</span><small>FRI</small></div><div class="preview-progress"><span></span></div><small class="preview-caption">1 of 3 tasks complete</small></div>
+      </section>
+
+      <section class="closing-cta section-wrap"><p class="eyebrow">Have something in mind?</p><h2>Let’s make it<br><span class="highlight">happen.</span></h2><a class="button button-dark" href="contact.html">Get in touch <span aria-hidden="true">↗</span></a></section>
+    </main>
+    <footer class="site-footer"><a class="wordmark" href="index.html"><span class="wordmark-mark">K</span> kator agashua<span class="wordmark-period">.</span></a><p>Learning out loud, building with care.</p><div class="footer-bottom"><span>© <span data-current-year>2025</span> Kator Agashua. All rights reserved.</span><a href="contact.html">Say hello <span aria-hidden="true">↗</span></a></div></footer>
+  </body>
+</html>
